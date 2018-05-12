@@ -1,0 +1,29 @@
+_repo: The-Romance-of-Plant-LifeInteresting-Descriptions-of-the-Strange-and-Curious-in-the-Plant-Wor__45930
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45930-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Elliot, G. F. Scott (George Francis Scott)
+    alias: Elliot, George Francis Scott
+    birthdate: 1862
+    deathdate: 1934
+    gutenberg_agent_id: '43527'
+    url: http://www.gutenberg.org/2009/agents/43527
+description: ''
+gutenberg_issued: '2014-06-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45930'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Plants'
+- !lcc 'QK'
+title: 'The Romance of Plant Life
+
+  Interesting Descriptions of the Strange and Curious in the Plant World'
+url: http://www.gutenberg.org/ebooks/45930
